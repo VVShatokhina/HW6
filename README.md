@@ -42,6 +42,6 @@ Digital-Literacy
 Используется “fix”, чтобы сосредоточиться на общей проблеме, что-либо зафиксировать. Это значит, что мы хотим вернуться к тому, как это было раньше.
 Выбранные дополнения соответствуют семантике глагола.
 
-1)You could fix your own rates.
+1) You could fix your own rates.
 
 ![](https://github.com/VVShatokhina/HW6/blob/master/2.1.png)
